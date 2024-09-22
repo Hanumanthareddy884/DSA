@@ -1,2 +1,2 @@
-if 5>4:
- print("Reddy")
+if 4 < 5:
+    print("Reddy")
