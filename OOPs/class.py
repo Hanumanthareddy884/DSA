@@ -18,6 +18,5 @@ class Student:
         self.registration()
         return f"{self.name}({self.age})"
     
-
 std = Student("Atharva",2)
 print(std)
