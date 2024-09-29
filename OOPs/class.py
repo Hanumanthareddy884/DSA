@@ -17,6 +17,7 @@ class Student:
     def __str__(self):
         self.registration()
         return f"{self.name}({self.age})"
+    
 
 std = Student("Atharva",2)
 print(std)
